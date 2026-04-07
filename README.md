@@ -69,6 +69,13 @@ Factorial: 120
 * 💻 Practice → https://www.hackerrank.com/domains/python
 
 ---
+## 📬 Contact
+
+* GitHub: https://github.com/Deepak7739-code
+* Email: [kdeepak4032@gmail.com](mailto: kdeepak4032@gmail.com)
+
+---
+
 
 ## 🤝 Contributing
 
@@ -76,3 +83,16 @@ Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
 
 ---
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 📢 Share it
+
+---
+
+<p align="center">
+  Made with ❤️ using Python
+</p>
