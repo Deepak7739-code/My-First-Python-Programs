@@ -13,3 +13,66 @@ This repository contains my first Python program. It demonstrates basic programm
 | 6 | 🔍 Palindrome        | Check if string is palindrome  |
 | 7 | 📅 Leap Year         | Check leap year condition      |
 | 8 | 💡 Armstrong Number  | Check Armstrong number         |
+
+---
+
+## 📂 Project Structure
+
+```bash
+.
+├── README.md
+└── task1.py
+```
+
+---
+
+## ▶️ How to Run
+
+### 🔧 Prerequisites
+
+* Python 3.x installed → https://www.python.org/downloads/
+
+---
+
+## 🎯 Skills Demonstrated
+
+✔ Python Basics
+✔ Conditional Statements
+✔ Loops (for / while)
+✔ String Manipulation
+✔ Problem Solving
+
+---
+
+## 💡 Example Output
+
+```bash
+Enter a number: 5
+Factorial: 120
+```
+
+---
+
+## 🚀 Future Improvements
+
+* 🔹 Convert code into modular **functions**
+* 🔹 Add **menu-driven CLI**
+* 🔹 Implement **error handling**
+* 🔹 Build a **GUI version (Tkinter / PyQt)**
+
+---
+
+## 🌐 Useful Resources
+
+* 📘 Python Docs → https://docs.python.org/3/
+* 🎥 Python for Beginners → https://www.youtube.com/watch?v=_uQrJ0TkZlc
+* 💻 Practice → https://www.hackerrank.com/domains/python
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
